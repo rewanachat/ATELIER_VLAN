@@ -164,7 +164,8 @@ PC1 → PC2
 PC1 → PC3  
 👉 Fonctionne uniquement grâce au routeur
 
-* * Copie d'écran ici * *  
+<img width="1457" height="819" alt="image" src="https://github.com/user-attachments/assets/45e8dbf6-e838-4408-9f4e-6e70543417fa" />
+
   
 ---
 
